@@ -80,7 +80,7 @@ This application facilitates job searching relevant to specific domains or areas
 
 ## **API Documentation**
 
-[Link to Detailed Postman Documentation](https://documenter.getpostman.com/view/36494598/2sA3e5f8XT)
+[Link to Detailed Postman Documentation](https://documenter.getpostman.com/view/37432663/2sAYBREtJh)
 
 
 
