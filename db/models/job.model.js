@@ -20,7 +20,7 @@ const jobSchema = new Schema({
         type: String
     },
     technicalSkills: [{
-        type: String,
+        type: [String],
         required: true,
       }],
     softSkills: [{
